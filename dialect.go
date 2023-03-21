@@ -3,7 +3,7 @@ package dat
 import (
 	"time"
 
-	"gopkg.in/mgutz/dat.v1/common"
+	"github.com/mbcorvee/dat/common"
 )
 
 // Dialect is the active SQLDialect.
